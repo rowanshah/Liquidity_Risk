@@ -1,8 +1,7 @@
 # Liquidity Risk
 
-The Liquidity_Risk_AMG.ipynb contains everything - EDA, model training and evaluation. 
+The Liquidity_Risk_AMG.ipynb contains everything - EDA, model training and evaluation. The sandbox folder contains some other models I was testing and experimenting with, and the images folder contains snapshots of the decision tree trained. 
 
-Steps to run:
 Just ensure you have the following modules installed:
 
 * matplotlib
